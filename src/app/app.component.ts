@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import Icon from '@material-ui/core/Icon';
 
 @Component({
   selector: 'app-root',
